@@ -70,7 +70,7 @@ blockquote {
 /* The footer's style */
 
 footer {
-  height: 100px;
+  height: 50px;
   background: #000;
   color: #eee;
   text-align: center;
@@ -105,12 +105,14 @@ header h1 {
   margin: 0;
   font-size: 35pt;
   text-align: right;
-  padding-top: 7em;
+  padding-top: 9em;
   padding-left: 7em;
 }
 
 header h2 {
   text-align: right;
+  font-size: 16pt;
+  padding-top: 1em
 }
 
 header a {
@@ -124,7 +126,7 @@ header a {
 
 .map {
   text-align: center;
-  padding-bottom: 1em
+  padding-bottom: 1em;
 }
 /* Styles for header sections to apply background images or colour. */
 
