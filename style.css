@@ -46,10 +46,12 @@ figcaption {
 blockquote {
   width: 66%;
   margin: 1em auto;
-  background: #ddd;
+  background: #ffffff;
   padding: 1em;
-  font-size: 1.25em;
+  font-size: 20pt;
   text-align: center;
+  font-style: italic;
+  font-weight: bold;
   color: #696969;
   border-bottom: 1px solid #999;
   border-top: 1px solid #999;
@@ -101,7 +103,7 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 60pt;
+  font-size: 35pt;
   text-align: right;
   padding-top: 7em;
   padding-left: 7em;
@@ -122,7 +124,7 @@ header a {
 
 .map {
   text-align: center;
-  padding-bottom: 2em
+  padding-bottom: 1em
 }
 /* Styles for header sections to apply background images or colour. */
 
